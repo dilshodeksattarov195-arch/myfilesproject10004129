@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervalculate",
+        "uuid": 2762301,
+        "checksum": "rfb7x"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
